@@ -36,7 +36,7 @@ Coursework focus: Artificial Intelligence & Machine Learning
 
 ## Featured Projects
 
-### [Ephira](https://github.com/JonahSutch/Ephira) — Menstrual Cycle Tracking App
+### [Ephira](https://github.com/adulbrich/ephira) — Menstrual Cycle Tracking App
 *React Native · Expo · TypeScript · SQLite · Drizzle ORM*
 
 A production-ready mobile app built with a team, focused on privacy and usability. I owned the core cycle prediction algorithms, health insight visualizations, and daily logging features, and led optimization of the data persistence layer.
